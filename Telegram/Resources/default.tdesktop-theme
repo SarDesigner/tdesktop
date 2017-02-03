@@ -179,7 +179,7 @@ dialogsSentIconFgOver: dialogsSentIconFg;
 dialogsUnreadBgOver: dialogsUnreadBg;
 dialogsUnreadBgMutedOver: dialogsUnreadBgMuted;
 dialogsUnreadFgOver: dialogsUnreadFg;
-dialogsBgActive: #419fd9;
+dialogsBgActive: #c3d860;
 dialogsNameFgActive: windowFgActive;
 dialogsChatIconFgActive: dialogsNameFgActive;
 dialogsDateFgActive: windowFgActive;
